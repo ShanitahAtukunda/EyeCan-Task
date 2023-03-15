@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">TestingTask</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign In</string>
+    <string name="action_register">Register</string>
+    <string name="action_sign_in_short">Sign in</string>
+
+    <string-array name="gender_list">
+        <item>Male</item>
+        <item>Female</item>
+    </string-array>
+
+    <string-array name="occupation_list">
+        <item>Student</item>
+        <item>Artist</item>
+        <item>Employee</item>
+        <item>Youtuber</item>
+        <item>Other</item>
+    </string-array>
+</resources>
